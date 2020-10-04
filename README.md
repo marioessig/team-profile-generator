@@ -35,7 +35,7 @@ Create an application that asks the user questions to create a README.md file au
 >*THEN* I exit the application, and the HTML is generated <br>
 
 ### Mock-Up
-![mockup](blob) (TBA)
+![mockup](https://github.com/marioessig/team-profile-generator/blob/develop/src/mockup.png)
 
 ### Application Video Walkthrough
 [Application Walkthrough](youtube) (TBA)
