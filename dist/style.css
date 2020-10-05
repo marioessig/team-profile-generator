@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(245, 237, 237);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.5;
+  font-size: 16px;
+}
+
+header {
+  color: rgb(113, 142, 167);
+  display: flex;
+  justify-content: center;
+  padding: 0.4rem;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+span {
+  font-size: 0.7em;
+}
+
+.container {
+  padding: 1rem;
+}
+
+.list-group-item {
+  text-decoration: none;
+}
+.card {
+  padding: 0;
+}
