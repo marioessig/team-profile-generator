@@ -41,4 +41,4 @@ Create an application that asks the user questions to create a README.md file au
 [Application Walkthrough](https://youtu.be/uwk72Qp2Nr0)
 
 ### Links:
-[GitHub Repository URL](tba) (TBA)
+[GitHub Repository URL](https://marioessig.github.io/team-profile-generator/)
